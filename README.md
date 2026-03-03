@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi 👋
 
-I'm Sercan, a polyglot software engineer based in Istanbul. I work across the full stack—from client-side to server-side—using multiple programming languages to build practical solutions.
+I'm Sercan, a polyglot software engineer based in Istanbul. 
 
-I'm passionate about coding, AI, and sharing knowledge. I write about tech on my [Turkish tech blog](https://msagentframeworktr.substack.com/) and contribute to open source projects. Recently, I've been working on [claude-code-template](https://github.com/sercandumansiz/claude-code-template), a starter template for configuring Claude Code with well-structured building blocks.
+I work across the full stack from client side to server side using multiple programming languages to build practical solutions.
 
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/sercan-dumansiz/). Always happy to collaborate on interesting projects!
+I'm passionate about architecture, AI Native Engineering, and sharing knowledge. 
+
+I write about Microsoft Agent Framework on my [Turkish tech blog](https://msagentframeworktr.substack.com/) 
+Recently, I've been working on [claude-code-template](https://github.com/sercandumansiz/claude-code-template), a starter template for configuring Claude Code with well-structured building blocks.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/sercan-dumansiz/).
